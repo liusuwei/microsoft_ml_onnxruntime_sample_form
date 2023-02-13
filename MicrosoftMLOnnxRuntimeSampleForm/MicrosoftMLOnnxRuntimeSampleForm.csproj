@@ -8,7 +8,7 @@
     <ProjectGuid>{E5CC7D5D-4246-4FF1-B2F1-3ABBE2B9D066}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WindowsFormsApp23</RootNamespace>
-    <AssemblyName>WindowsFormsApp23</AssemblyName>
+    <AssemblyName>MicrosoftMLOnnxRuntimeSampleForm</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
